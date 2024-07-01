@@ -7,13 +7,21 @@
 
 - 🔭 I’m currently working on **frontend frameworks like React,Next.js etc..**
 
-- 🌱 I’m currently learning **- Frontend frameworks like React and Vue.js - Cybersecurity fundamentals and practices**
+- 🌱 I’m currently learning:
+  - Frontend frameworks like React and Vue.js
+  - Cybersecurity fundamentals and practices
+
 
 - 👯 I’m looking to collaborate on **interesting projects across various frameworks, focusing on frontend development.**
 
 - 🤝 I'm Open to **learning and seeking assistance in different frontend frameworks, from mastering advanced concepts to exploring the basics.**
 
-- 💬 Ask me about **- Research in technology trends and advancements - Web development best practices and strategies - Competitive coding techniques and problem-solving - Content writing strategies for technical topics and tutorials**
+- 💬 Ask me about:
+  - Research in technology trends and advancements
+  - Web development best practices and strategies
+  - Competitive coding techniques and problem-solving
+  - Content writing strategies for technical topics and tutorials
+
 
 - 📫 How to reach me **serverX13@outlook.com**
 
