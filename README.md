@@ -34,7 +34,6 @@
 <a href="https://www.codechef.com/users/lohith000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lohith000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lohithlalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lohithlalam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/x-13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x-13" height="30" width="40" /></a>
-<a href="/https://www.serverx.org.in/authors/lohith-lalam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.serverx.org.in/authors/lohith-lalam/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
