@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohith-lalam&label=Profile%20views&color=0e75b6&style=flat" alt="lohith-lalam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lohith-lalam" alt="lohith-lalam" /></a> </p>
-
 - 🔭 I’m currently working on **frontend frameworks like React,Next.js etc..**
 
 - 🌱 I’m currently learning:
@@ -27,10 +25,9 @@
 
 - ⚡ Fun fact **I believe in finding laughter even in the toughest moments, spreading smiles wherever I go.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
+
+                
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lohithlalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lohithlalam" height="30" width="40" /></a>
