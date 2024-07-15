@@ -21,7 +21,7 @@
   - Content writing strategies for technical topics and tutorials
 
 
-- 📫 How to reach me **serverX13@outlook.com**
+- 📫 How to reach me : reach me through LinkedIn 
 
 - ⚡ Fun fact **I believe in finding laughter even in the toughest moments, spreading smiles wherever I go.**
 
